@@ -4,6 +4,7 @@
 Este repositório contém o relatório do projeto desenvolvido no mestrado de Sistemas Autônomos na Unidade curricular LaSET. 
 Imagens ilustrativas da PCB final e o desenvolvimento associado
 
+
 RESUMO DO PROJETO:
----
+
 Para outros esclarecimentos contacte pelo email 1181045@isep.ipp.pt.
