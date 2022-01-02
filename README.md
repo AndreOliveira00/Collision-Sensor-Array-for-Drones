@@ -5,6 +5,6 @@ Este repositório contém o relatório do projeto desenvolvido no mestrado de Si
 Imagens ilustrativas da PCB final e o desenvolvimento associado
 
 
-RESUMO DO PROJETO:
+<b>RESUMO DO PROJETO:</b>
 
 Para outros esclarecimentos contacte pelo email 1181045@isep.ipp.pt.
