@@ -1,4 +1,4 @@
-# LASET
+# Collision Sensor Array for Drones
  Collision Sensor Array for Drones using ToF and Solid State LiDAR
 
 Este repositório contem o poster ilustrativo do projeto desenvolvido durante o estágio de fim de Licenciatura em Engenharia Eletrotécnica e de Computadores pelo Instituto Superior de Engenharia do Porto.
