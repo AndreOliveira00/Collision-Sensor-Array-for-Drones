@@ -2,7 +2,7 @@
  Collision Sensor Array for Drones using ToF and Solid State LiDAR
 
 Este repositório contém o relatório do projeto desenvolvido no mestrado de Sistemas Autônomos na Unidade curricular LaSET. 
-Imagens ilustrativas da PCB final e o desenvolvimento associado
+Imagens ilustrativas da PCB final e o desenvolvimento associado.
 
 
 <b>RESUMO DO PROJETO:</b>
